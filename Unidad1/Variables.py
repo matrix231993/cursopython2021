@@ -34,8 +34,8 @@ variable_1 = ""  # Variables de String
 variable_2 = ''  # Variables de String
 variable_3 = 10  # Variable de tipo Entero
 variable_4 = 10.5 # Variable de tipo Float
-variable_5 = "true" # variable de tipo bool
-variable_5 = "false" # variable de tipo bool
+variable_5 = True # variable de tipo bool
+variable_5 = False # variable de tipo bool
 
 #Funciones predefinidas de Python
 print() # Sirve para enviar a consola los mensajes
